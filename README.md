@@ -1,38 +1,48 @@
-### Hi there 👋, I'm Kaustubh Salodkar! (lileskimo)
+<h1 align="center">Hi, I'm Kaustubh 👋</h1>
+<p align="center">
+  Passionate about software development, machine learning, and building smart solutions!
+</p>
 
-#### Electrical Engineering student | Aspiring Software Developer | Full Stack Web Developer | Machine Learning Enthusiast
+---
 
-- 🔭 Currently building web apps and sharpening my Data Structures & Algorithms skills  
-- 🌱 Learning backend development, system design, and AI/ML integration  
-- 👯 Open to collaborate on open source projects and cool web dev initiatives  
-- 💬 Ask me about C++, Python, React, Node.js, and anything tech!  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kaustubh-salodkar/) or [Email](mailto:kaustubh.email@example.com)  
-- ⚡ Fun fact: I’m fascinated by how tech and engineering solve real-world problems!
+### 🚀 About Me
+
+- 🌱 Currently a sophomore at IIT Jodhpur, majoring in Electrical Engineering
+- 🔭 Working on web apps, AI/ML projects, and sharpening my DSA skills  
+- 👯 Open for collaborations on open-source and web projects  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kaustubh-salodkar/) or [Email](mailto:kaustubh.salodkar13@gmail.com)  
+- ⚡ Fun fact: I’m obsessed with clean, efficient systems that solve real problems!
+
+---
+
+### 🧰 Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C" />
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB" />
+  <img src="https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26" />
+  <img src="https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6" />
+  <img src="https://img.shields.io/badge/JS-JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=F7DF1E" />
+  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB" />
+  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032" />
+  <img src="https://img.shields.io/badge/Library-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00" />
+</p>
 
 ---
 
 ### 📈 GitHub Stats
 
-![Kaustubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lileskimo&show_icons=true&theme=tokyonight)
-
-### 📊 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lileskimo&layout=compact&theme=tokyonight)
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p>
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lileskimo&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lileskimo&theme=tokyonight" width="45%" />
 </p>
 
 ---
 
-Thanks for stopping by! 😊
+### 🌐 Connect with Me
+
+- 🐱 [GitHub](https://github.com/lileskimo)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kaustubh-salodkar/)
+- 🧮 [Codeforces](https://codeforces.com/profile/lileskimo)
+
+---
