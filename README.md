@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB" />
   <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032" />
   <img src="https://img.shields.io/badge/Library-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00" />
+  <img src="https://img.shields.io/badge/Tool-Vite-informational?style=flat&logo=vite&logoColor=white&color=646CFF" />
+  <img src="https://img.shields.io/badge/Framework-TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=06B6D4" />
 </p>
 
 ---
@@ -37,13 +39,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=lileskimo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&line_height=26&count_private=true" width="600px" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lileskimo&theme=tokyonight&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D" width="600px" />
 
-
 ---
 
 🔤 **Language Proficiency Map**
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lileskimo&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=8" width="40%" /> </div>
-
 
 ---
 
@@ -52,5 +52,3 @@
 - 🐱 [GitHub](https://github.com/lileskimo)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kaustubh-salodkar/)
 - 🧮 [Codeforces](https://codeforces.com/profile/lileskimo)
-
----
