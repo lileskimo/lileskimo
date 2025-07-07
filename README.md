@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Kaustubh 👋</h1>
-<p align="center">
+<h1>Hi, I'm Kaustubh Salodkar</h1>
+<p>
   Passionate about software development, AI/ML, and building clean, efficient systems to solve real-world problems!
 </p>
 
@@ -7,17 +7,16 @@
 
 ## 🚀 About Me
 
-- 🎓 Sophomore at **IIT Jodhpur**, majoring in **Electrical Engineering**
-- 💻 Building full-stack web apps, AI/ML projects, and sharpening my **DSA** skills  
-- 🤝 Open for collaborations on **open-source**, **web development**, and **AI/ML projects**
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/kaustubh-salodkar/) or [Email](mailto:kaustubh.salodkar13@gmail.com)
-- ⚡ Fun fact: I love designing intuitive, scalable systems! (especially if they involve music)
+- Sophomore at **IIT Jodhpur**, majoring in **Electrical Engineering**
+- Building full-stack web apps, AI/ML projects, and sharpening my **DSA** skills  
+- Open for collaborations on **open-source**, **web development**, and **AI/ML projects**
+- Reach me via [LinkedIn](https://www.linkedin.com/in/kaustubh-salodkar/) or [Email](mailto:kaustubh.salodkar13@gmail.com)
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-### 💻 Programming Languages  
+### Programming Languages  
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -25,7 +24,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
 </p>
 
-### 🌐 Web Development  
+### Web Development  
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
@@ -39,7 +38,7 @@
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" />
 </p>
 
-### 🤖 Machine Learning & AI  
+### Machine Learning & AI  
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
@@ -50,7 +49,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
 </p>
 
-### 🛠️ Tools & Platforms  
+### Tools & Platforms  
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
@@ -61,15 +60,15 @@
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=lileskimo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lileskimo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&count_private=true" width="65%" />
 
   <br><br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lileskimo&theme=tokyonight&hide_border=true&border_radius=20" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lileskimo&theme=tokyonight&hide_border=true&border_radius=20" width="65%" />
 
   <br><br>
 
@@ -79,7 +78,7 @@
 
 ---
 
-## 🌐 Connect with Me  
+## Connect with Me  
 
 <p>
   <a href="https://github.com/lileskimo">
